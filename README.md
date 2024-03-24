@@ -6,10 +6,7 @@ I'm a first-year student at Faculty of Automatic Control and Computers, Universi
 ## Skills
 - C/C++/C#
 
-## GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
-
 ## Social
-- Instagram: (https://www.linkedin.com/in/your-linkedin-profile)
+- Instagram: (https://www.instagram.com/horiax07/)
 
 Feel free to reach out to me if you have any questions or collaboration opportunities!
