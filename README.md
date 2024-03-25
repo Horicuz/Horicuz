@@ -6,7 +6,7 @@ I'm a first-year student at Faculty of Automatic Control and Computers, Universi
 ## Skills
 - C/C++/C#
 
-##Contact
+## Contact
 
 You can contact me at this email: ptphoria@proton.me
 
