@@ -6,7 +6,8 @@ I'm a first-year student at Faculty of Automatic Control and Computers, Universi
 ## Skills
 - C/C++/C#
 
-## Social
-- Instagram: (https://www.instagram.com/horiax07/)
+##Contact
+
+You can contact me at this email: ptphoria@proton.me
 
 Feel free to reach out to me if you have any questions or collaboration opportunities!
