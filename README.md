@@ -1,7 +1,8 @@
 # Hi there, I'm Horicuz! 👋
 
 ## About Me
-I'm a first-year student at Faculty of Automatic Control and Computers, University POLITEHNICA of Bucharest. I am passionate about all kinds of tech and innovation.
+I'm a first-year student at Faculty of Automatic Control and Computers, University POLITEHNICA of Bucharest.  
+I am passionate about all kinds of tech and innovation.
 
 ## Skills
 - C/C++/C#
