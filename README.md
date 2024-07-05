@@ -7,7 +7,7 @@ I am passionate about all kinds of tech and innovation.
 ## Skills
 - C/C++/C#
   
-##LeetCode Stats
+## LeetCode Stats
 [![LeetCode Stats](https://leetcode.card.workers.dev/Horicuz?theme=auto&font=baloo&extension=null)](https://leetcode.com/Horicuz/)
 
 
