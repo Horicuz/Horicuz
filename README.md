@@ -1,7 +1,7 @@
 # Hi there, I'm Horicuz! 👋
 
 ## About Me
-I'm a second-year student at Faculty of Automatic Control and Computers, University POLITEHNICA of Bucharest.  
+I'm a second-year student at <a href="http://acs.pub.ro/">Faculty of Automatic Control and Computers</a> , University POLITEHNICA of Bucharest.  
 I am passionate about all kinds of tech and innovation.
 
 ## Skills
