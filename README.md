@@ -1,5 +1,5 @@
 # Hi there, I'm Horicuz! 👋
-[![LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Horicuz)](https://github.com/Horicuz/github-readme)
+[![LeetCode Stats](https://leetcode.card.workers.dev/Horicuz?theme=auto&font=baloo&extension=null)](https://leetcode.com/Horicuz/)
 ## About Me
 I'm a second-year student at Faculty of Automatic Control and Computers, University POLITEHNICA of Bucharest.  
 I am passionate about all kinds of tech and innovation.
