@@ -6,6 +6,7 @@
   <a href="https://codeforces.com/profile/Horicuz">
     <img src="https://raw.githubusercontent.com/Horicuz/cf-stats/main/output/rating.svg" alt="CodeForces Rating" />
   </a>
+  
 ## About Me
 I'm a second-year student at <a href="http://acs.pub.ro/">Faculty of Automatic Control and Computers</a>, University POLITEHNICA of Bucharest. I am passionate about software engineering, computer science and artificial intelligence.
 
