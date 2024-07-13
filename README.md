@@ -1,8 +1,5 @@
 # Welcome to my profile, I'm Horicuz! 👋
-  <a href="https://leetcode.com/Horicuz/">
-    <img src="https://cp-logo.vercel.app/leetcode/Horicuz" alt="Leet code rating" />
-  </a>
-
+  
   <a href="https://codeforces.com/profile/Horicuz">
     <img src="https://raw.githubusercontent.com/Horicuz/cf-stats/main/output/rating.svg" alt="CodeForces Rating" />
   </a>
