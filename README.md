@@ -17,6 +17,13 @@ I'm a second-year student at <a href="http://acs.pub.ro/">Faculty of Automatic C
 ## LeetCode Stats
 [![LeetCode Stats](https://leetcode.card.workers.dev/Horicuz?theme=auto&font=baloo&extension=null)](https://leetcode.com/Horicuz/)
 
+## CodeForces Stats
+![](https://raw.githubusercontent.com/your-github-username/cf-stats/main/output/light_card.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/your-github-username/cf-stats/main/output/light_card.svg)
+
+![](https://raw.githubusercontent.com/sudiptob2/cf-stats/main/output/max_rating.svg)
+![](https://raw.githubusercontent.com/sudiptob2/cf-stats/main/output/rating.svg)
+
 ## Contact
 
 You can contact me at this email: ptphoria@proton.me
