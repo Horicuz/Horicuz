@@ -16,13 +16,12 @@ I'm a second-year student at <a href="http://acs.pub.ro/">Faculty of Automatic C
 ## Skills
 - C/C++/C#
   
-## LeetCode Stats
-[![LeetCode Stats](https://leetcode.card.workers.dev/Horicuz?theme=auto&font=baloo&extension=null)](https://leetcode.com/Horicuz/)
+## Competitive Stats
+<p float="left">
+<img height="255em" src="https://leetcode.card.workers.dev/Horicuz?theme=auto&font=baloo&extension=null" />
+<img height="260em" src="https://raw.githubusercontent.com/Horicuz/cf-stats/main/output/light_card.svg#gh-dark-mode-only" />
+</p>
 
-## CodeForces Stats
-![](https://raw.githubusercontent.com/Horicuz/cf-stats/main/output/light_card.svg#gh-dark-mode-only)
-
-![](https://raw.githubusercontent.com/Horicuz/cf-stats/main/output/max_rating.svg)
 
 ## Contact
 
