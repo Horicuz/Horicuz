@@ -14,7 +14,8 @@
 I'm a second-year student at <a href="http://acs.pub.ro/">Faculty of Automatic Control and Computers</a>, University POLITEHNICA of Bucharest. I am passionate about software engineering, computer science and artificial intelligence.
 
 ## Skills
-- C/C++/C#
+- C/C++/C#/Python/HTML/CSS/JavaScript
+- BashScripting/Linux
   
 ## LeetCode Stats
 [![LeetCode Stats](https://leetcode.card.workers.dev/Horicuz?theme=auto&font=baloo&extension=null)](https://leetcode.com/Horicuz/)
