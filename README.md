@@ -19,7 +19,7 @@ I'm a second-year student at <a href="http://acs.pub.ro/">Faculty of Automatic C
 
   
 ## LeetCode Stats
-[![LeetCode Stats](https://leetcode.card.workers.dev/Horicuz?theme=auto&font=baloo&extension=null)](https://leetcode.com/Horicuz/)
+![](https://leetcard.jacoblin.cool/horicuz?animation=false)
 
 ## CodeForces Stats
 ![](https://raw.githubusercontent.com/Horicuz/cf-stats/main/output/light_card.svg)
