@@ -16,6 +16,7 @@ I'm a second-year student at <a href="http://acs.pub.ro/">Faculty of Automatic C
 ## Skills
 - C/C++/C#/Python/HTML/CSS/JavaScript
 - BashScripting/Linux
+
   
 ## LeetCode Stats
 [![LeetCode Stats](https://leetcode.card.workers.dev/Horicuz?theme=auto&font=baloo&extension=null)](https://leetcode.com/Horicuz/)
