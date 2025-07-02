@@ -13,8 +13,8 @@ I'm a second-year student at <a href="http://acs.pub.ro/">Faculty of Automatic C
 
 ## Skills
 - C/C++/C#/Python/HTML/CSS/JavaScript
+- Haskell/Racket/Prolog
 - BashScripting/Linux
-
   
 ## LeetCode Stats
 ![](https://leetcard.jacoblin.cool/horicuz?animation=false)
