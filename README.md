@@ -1,4 +1,4 @@
-# Welcome to my profile, I'm Horicuz! 👋 ![Visitor Count](https://profile-counter.glitch.me/horicuz/count.svg)
+# Welcome to my profile, I'm Horicuz! 👋 
 
   
   <a href="https://codeforces.com/profile/Horicuz">
