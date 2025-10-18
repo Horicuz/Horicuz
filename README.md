@@ -9,7 +9,7 @@
   </a>
   
 ## About Me
-I'm a second-year student at <a href="http://acs.pub.ro/">Faculty of Automatic Control and Computers</a>, University POLITEHNICA of Bucharest. I am passionate about software engineering, computer science and artificial intelligence.
+I'm a third-year student at <a href="http://acs.pub.ro/">Faculty of Automatic Control and Computers</a>, University POLITEHNICA of Bucharest. I am passionate about software engineering, computer science and artificial intelligence.
 
 ## Skills
 - C/C++/C#/Python/HTML/CSS/JavaScript
