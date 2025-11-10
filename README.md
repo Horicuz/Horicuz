@@ -18,7 +18,7 @@
 
 ### 💬 Languages
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,go,java,js,html,css,haskell,ai,bash" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,go,java,js,html,css,haskell,bash" alt="Languages" />
 </p>
 
 ### ⚙️ Tools & Technologies
